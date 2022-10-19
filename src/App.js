@@ -56,7 +56,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Contato</h1>
+      <h1 className="title">Disparador de Email</h1>
 
       <form className="form" onSubmit={dispararEmail}>
         <input 
